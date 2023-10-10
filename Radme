@@ -1,8 +1,24 @@
 cont + shit + " = abre um novo terminal
+
 mkdir "Nome da Pasta que desejo" + enter = criando pasta.
+
 cd + a + tab = agora estamos dentro da pasta
+
 npm install -g @angular/cli = angular instalado
+
 cd + espaço = inicial do meu projeto + tab = entrou na pj
+
 ng g c header = g= componente e generente
+
 windows powershell -> usado para conseguir rodar aplicações do node.js.
-deve sempre estar com a escrita
+Dentro do Powershell deve-se executar como adm
+Colocar o código set-ExecutionPolicy Unrestrictd
+
+vue create meu-projeto-vue - para instalar vue
+
+npx  vue create meu-projeto-vue para criar um projeto
+
+Projeto Vue
+
+npm install -g vue-generate-component-typescript (para instalar)
+vgc -s nomedoComponente que quero criar. 
